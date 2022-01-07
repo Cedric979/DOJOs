@@ -1,2 +1,2 @@
 # DOJOs
-WilsCode School Dojos
+Wild Code School Dojos
